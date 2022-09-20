@@ -1,0 +1,7 @@
+name 'dummy2'
+description 'A basic starter cookbook. change1..'
+version '1.0.2'
+maintainer 'Awesome Company, Inc.'
+maintainer_email 'you@example.com'
+# issues_url 'https://github.com/<insert_org_here>/pbisht-dummy2/issues'
+# source_url 'https://github.com/<insert_org_here>/pbisht-dummy2'
